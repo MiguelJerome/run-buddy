@@ -293,6 +293,10 @@ section {
 .contact h2 {
   color: #fce138;
 }
+.contact-info > * {
+  flex: 1;
+  margin: 15px;
+}
 
 .contact-info iframe {
   width: 400px;
